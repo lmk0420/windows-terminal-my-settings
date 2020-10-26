@@ -1,1 +1,1 @@
-windows-terminal-my-settings
+# windows-terminal-my-settings
